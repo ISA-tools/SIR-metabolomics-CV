@@ -10,7 +10,8 @@ Stable Isotope Resolved Metabolomics Terminology
     creative commons CC-BY-SA 4.0 unported
 
 -authors:
-    Philippe Rocca-Serra on behalf of the EU-FP7 COSMOS Tracer based metabolomics working group
+    -University of Oxford:
+        Philippe Rocca-Serra on behalf of the EU-FP7 COSMOS Tracer based metabolomics working group
     -University of Barcelona:
         Marta Cascante
         Silvia Marin
@@ -22,5 +23,8 @@ Stable Isotope Resolved Metabolomics Terminology
 
     -ETH Zurich
         Nicola Zamboni
+
+    -EMBL-EBI:
+        Reza Salek
 
 
